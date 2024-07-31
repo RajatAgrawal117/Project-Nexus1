@@ -35,11 +35,11 @@ Tastebuds Bistro is a restaurant website designed to provide a seamless experien
 ## Screenshots
 
 
-![Sign Up Form](screenshots/signup-form.png)
+![Sign Up Form]
 ![image](https://github.com/user-attachments/assets/208c80a9-88f3-4cad-90b1-23fcb09b17b8)
 
 
-![Sign In Form](screenshots/signin-form.png)
+![Sign In Form]
 ![image](https://github.com/user-attachments/assets/a62d3449-78a7-4a8c-b421-1a41656173dc)
 
 
