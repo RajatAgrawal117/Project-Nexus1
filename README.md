@@ -23,13 +23,11 @@ Tastebuds Bistro is a restaurant website designed to provide a seamless experien
 - JavaScript (ES6)
 - Font Awesome for icons
 - Google Fonts for typography
-- [Additional libraries or frameworks if any]
+
 
 ## Features
 
 - **Responsive Design:** The website is fully responsive, ensuring compatibility across various devices and screen sizes.
-- **User Authentication:** Includes signup and login forms with client-side validation.
-- **Social Media Integration:** Users can opt to sign in using popular social media platforms.
 - **Interactive UI:** Smooth transitions and animations enhance user experience.
 
 ## Screenshots
